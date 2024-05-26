@@ -40,4 +40,5 @@ Thank you for visiting our repository. We hope this resource helps researchers, 
 
 # Acknowledgements
 This work was supported by the Horizon research and innovation programme under grant agreement HE-101070250 XRECO.
+
 <img src="images/PP-Gradient_1-OPENINGSPREAD.jpg" alt="3D Object Retrieval" width="400"/>
