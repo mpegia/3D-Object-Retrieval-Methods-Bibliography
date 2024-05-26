@@ -10,6 +10,11 @@ Unimodal retrieval methods focus on a single modality for retrieving 3D objects.
 - **Voxels**: Methods based on volumetric representation of 3D data.
 - **Point clouds**: Methods that utilize sets of points in space to represent 3D objects.
 
+<div style="text-align: center;">
+    <img src="images/representations.png" alt="3D Object Retrieval" width="600"/>
+</div>
+
+
 ### Cross-Modal Retrieval Methods
 Cross-modal retrieval methods aim to bridge different modalities for 3D object retrieval. For example, these methods might retrieve 3D objects using 2D images as queries. This category highlights techniques that integrate information across different types of data to enhance retrieval performance.
 
