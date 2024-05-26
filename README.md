@@ -64,6 +64,8 @@ Thank you for visiting our repository. We hope this resource helps researchers, 
 
 # Contact
 - Maria Pegia (mpegia@iti.gr)
+- Sotiris Diplaris (diplaris@iti.gr)
+- Stefanos Vrochidis (stefanos@iti.gr)
 
 # Acknowledgements
 This work was supported by the Horizon research and innovation programme under grant agreement HE-101070250 XRECO.
