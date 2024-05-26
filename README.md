@@ -37,16 +37,21 @@ Unimodal retrieval methods focus on a single modality for retrieving 3D objects.
 7. Wang, Y., Sun, Y., Liu, Z., Sarma, S. E., Bronstein, M. M., & Solomon, J. M. (2019). Dynamic graph CNN for learning on point clouds. ACM Transactions on Graphics (TOG), 38(5), 1-12.
 
 - **Voxels**: Methods based on volumetric representation of 3D data.
-1. Fanelli, G., Weise, T., Gall, J., & Van Gool, L. (2011). Real time head pose estimation from consumer depth cameras. In Joint pattern recognition symposium (pp. 101-110). Berlin, Heidelberg: Springer Berlin Heidelberg.
-2. Maturana, D., & Scherer, S. (2015). Voxnet: A 3D convolutional neural network for real-time object recognition. In 2015 IEEE/RSJ international conference on intelligent robots and systems (IROS) (pp. 922-928). IEEE.
+1. Fanelli, G., Weise, T., Gall, J., & Van Gool, L. (2011). Real time head pose estimation from consumer depth cameras. In Joint Pattern Recognition Symposium (pp. 101-110). Berlin, Heidelberg: Springer Berlin Heidelberg.
+2. Maturana, D., & Scherer, S. (2015). Voxnet: A 3D convolutional neural network for real-time object recognition. In 2015 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (pp. 922-928).
 3. Wu, Z., Song, S., Khosla, A., Yu, F., Zhang, L., Tang, X., & Xiao, J. (2015). 3D shapenets: A deep representation for volumetric shapes. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR) (pp. 1912-1920).
-4. Xu, X., & Todorovic, S. (2016). Beam search for learning a deep convolutional neural network of 3D shapes. In 2016 23rd International Conference on Pattern Recognition (ICPR) (pp. 3506-3511). IEEE.
+4. Xu, X., & Todorovic, S. (2016). Beam search for learning a deep convolutional neural network of 3D shapes. In 2016 23rd International Conference on Pattern Recognition (ICPR) (pp. 3506-3511).
 
 ### Cross-Modal Retrieval Methods
 Cross-modal retrieval methods aim to bridge different modalities for 3D object retrieval. For example, these methods might retrieve 3D objects using 2D images as queries. This category highlights techniques that integrate information across different types of data to enhance retrieval performance.
+1. Jing, L., Vahdani, E., Tan, J., & Tian, Y. (2021). Cross-modal center loss for 3D cross-modal retrieval. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) (pp. 3142-3151).
+2. Lin, M. X., Yang, J., Wang, H., Lai, Y. K., Jia, R., Zhao, B., & Gao, L. (2021). Single image 3S shape retrieval via cross-modal instance and category contrastive learning. In Proceedings of the IEEE/CVF International Conference on Computer Vision (pp. 11405-11415).
 
 ### Multimodal Retrieval Methods
 Multimodal retrieval methods combine multiple modalities simultaneously to improve the accuracy and robustness of 3D object retrieval. These methods integrate data from various sources such as images, and 3D representations to provide a more comprehensive retrieval system.
+1. Nie, W., Liang, Q., Wang, Y., Wei, X., & Su, Y. (2020). MMFN: Multimodal information fusion networks for 3D model classification and retrieval. ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 16(4), 1-22.
+2. Lin, D., Cheng, Y., Guo, A., Mao, S., & Li, Y. (2024). SCA-PVNet: Self-and-cross attention based aggregation of point cloud and multi-view for 3D object retrieval. Knowledge-Based Systems, 111920.
+3. Pegia, M., Jónsson, B. Þ., Moumtzidou, A., Diplaris, S., Gialampoukidis, I., Vrochidis, S., & Kompatsiaris, I. (2024). Multimodal 3D Object Retrieval. In International Conference on Multimedia Modeling (MMM) (pp. 188-201). Cham: Springer Nature Switzerland.
 
 ## Goals
 Our primary goals for this repository are to:
