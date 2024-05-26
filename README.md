@@ -62,6 +62,15 @@ Our primary goals for this repository are to:
 ## Benchmark Datasets
 In addition to documenting retrieval methods, we provide information on benchmark datasets that are widely used in this domain. These datasets are crucial for the evaluation and comparison of different retrieval approaches.
 
+| Dataset Name               | Description                                         |Size  | Labels | Modalities          | Link                                    |
+|----------------------------|---------------------------------------------------  |------| ------|  ------------------ | -----------------------------------------|
+| ModelNet10                  | Large-scale 3D CAD model dataset | 4,899 |  10     | Image, Mesh, Point Cloud  | [Link](https://modelnet.cs.princeton.edu/# ) |
+| ModelNet40                  | Large-scale 3D CAD model dataset | 12,311     |  40    |  Image, Mesh, Point Cloud  | [Link](https://modelnet.cs.princeton.edu/# )    |
+| ShapeNetCore                | Richly-annotated large-scale repository of 3D models | 31,854 |   48    |  Image, Mesh, Point Cloud  | [Link](https://huggingface.co/datasets/ShapeNet/ShapeNetCore)    |
+| BuildingNet_v0 | Large-scale dataset of annotated 3D building models        | 2,000 |  60  | Image, Mesh, Point Cloud | [Link](https://github.com/buildingnet/buildingnet_dataset?tab=readme-ov-file) |
+| XRECO.Buildings.Monuments​ | 3D models created with photogrammetry of monuments and buildings mainly across Europe        |  201 |  12  | Image, Mesh | [Link](https://zenodo.org/records/10809451 ) |
+
+
 ## How to Contribute
 We strongly encourage the community to provide contributions through pull requests!
 
