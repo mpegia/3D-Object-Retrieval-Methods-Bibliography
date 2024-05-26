@@ -1,18 +1,25 @@
 # 3D-Object-Retrieval-Methods-Bibliography
-Welcome to the 3D Object Retrieval Methods Bibliography repository. This repository aims to provide a comprehensive and organized bibliography of the state-of-the-art methods in 3D object retrieval. We categorize the methods into three main approaches: unimodal, cross-modal, and multimodal. Each category includes various methods based on specific modalities such as multi-view images, meshes, voxels, and point clouds.
+Welcome to the 3D Object Retrieval Methods Bibliography repository. This repository aims to provide a comprehensive and organized bibliography of the state-of-the-art methods in 3D object retrieval. We categorize the methods into three main approaches: unimodal, cross-modal, and multimodal. Each category includes various methods based on specific modalities including multi-view images, meshes, voxels, and point clouds.
+
+<div style="text-align: center;">
+    <img src="images/representations.png" alt="3D Object Retrieval" width="600"/>
+</div>
 
 ## Categories
 
 ### Unimodal Retrieval Methods
 Unimodal retrieval methods focus on a single modality for retrieving 3D objects. This category encompasses techniques that utilize:
-- **Multi-view images**: Methods that leverage multiple 2D views of a 3D object.
-- **Meshes**: Methods that use the polygonal representation of 3D objects.
-- **Voxels**: Methods based on volumetric representation of 3D data.
-- **Point clouds**: Methods that utilize sets of points in space to represent 3D objects.
 
-<div style="text-align: center;">
-    <img src="images/representations.png" alt="3D Object Retrieval" width="600"/>
-</div>
+- **Multi-view images**: Methods that leverage multiple 2D views of a 3D object.
+
+
+- **Meshes**: Methods that use the polygonal representation of 3D objects.
+
+
+- **Voxels**: Methods based on volumetric representation of 3D data.
+
+
+- **Point clouds**: Methods that utilize sets of points in space to represent 3D objects.
 
 
 ### Cross-Modal Retrieval Methods
