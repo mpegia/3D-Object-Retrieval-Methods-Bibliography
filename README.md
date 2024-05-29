@@ -78,6 +78,7 @@ Thank you for visiting our repository. We hope this resource helps researchers, 
 
 # Contact
 - Maria Pegia (mpegia@iti.gr)
+- Stamatis Samaras (sstamatis@iti.gr)
 - Sotiris Diplaris (diplaris@iti.gr)
 - Stefanos Vrochidis (stefanos@iti.gr)
 
